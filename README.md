@@ -4,12 +4,12 @@ My name is ~~Matheus~~ Raduan but everybody calls me Raduan. I'm from Brazil and
 
 *i.e. a developer with a focus on **Frontend** and **Design**.* :nerd_face:
 
- I've been working as Frontend Developer at a fintech of the group [Movile](https://www.movile.com.br/) called MovilePay that delivers delightful experiences to payment and food market, along with [iFood](https://www.ifood.com.br/). #FasterTogether
+ I've been working as Frontend Developer at a fintech of the group [Movile](https://www.movile.com.br/) called MovilePay that delivers delightful experiences to payment and food market, along with [iFood](https://www.ifood.com.br/). *#FasterTogether*
 
 ## How I face the *work*
 
 I believe that the Person who I work for is bigger than my own work.
-The question you should be asking is, who do you work for?
+The question you should be asking is, who do I work for?
 
 ## Thinks I like
 
