@@ -17,7 +17,7 @@ The question you should be asking is: who do I work for?
 - Books - mainly theological books
 - Cycling - I'm a bike commuter
 - Rubik's cube - My official WCA single record in 3x3x3 is 34.25s
-- Be in communion with my brothers - *SIBS & Unijovem*
+- Be in communion with my brothers - *[SIBS & Unijovem](https://www.instagram.com/unijovemsibs/)*
 
 
 ## Get in touch
