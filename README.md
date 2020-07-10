@@ -8,14 +8,14 @@ My name is ~~Matheus~~ Raduan but everybody calls me Raduan. I'm from Brazil ðŸ‡
 
 ## How I face the *work*
 
-I believe that the Person who I work for is bigger than my own work.
-The question you should be asking is: who do I work for?
+I believe that we always work for someone and the Person I work for is bigger than my own work.
+The question you should ask me is, who do I work for?
 
 ## Thinks I like
 
 - Coffee - a lot..
 - Books - mainly theological books
-- Cycling - I'm a bike commuter
+- Cycling - I'm a bike commuter :bike:
 - Rubik's cube - My official WCA single record in 3x3x3 is 34.25s
 - Be in communion with my brothers - *[SIBS & Unijovem](https://www.instagram.com/unijovemsibs/)*
 
