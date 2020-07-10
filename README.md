@@ -9,7 +9,7 @@ My name is ~~Matheus~~ Raduan but everybody calls me Raduan. I'm from Brazil ðŸ‡
 ## How I face the *work*
 
 I believe that the Person who I work for is bigger than my own work.
-The question you should be asking is, who do I work for?
+The question you should be asking is: who do I work for?
 
 ## Thinks I like
 
