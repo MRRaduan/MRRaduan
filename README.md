@@ -1,6 +1,6 @@
 # Hi there! :coffee:
 
-My name is ~~Matheus~~ Raduan but everybody calls me Raduan. I'm from Brazil 🇧🇷 and I solve problems by design and building web experiences.
+I'm Raduan from Brazil 🇧🇷 and I solve problems by design and building web experiences.
 
 *i.e. a developer with a focus on **Frontend** and **Design**.* :nerd_face:
 
