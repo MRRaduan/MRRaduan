@@ -4,8 +4,6 @@ I'm Raduan from Brazil 🇧🇷 and I solve problems by design and building web 
 
 *i.e. a developer with a focus on **Frontend** and **Design**.* :nerd_face:
 
- I've been working as Frontend Developer at a fintech of the group [Movile](https://www.movile.com.br/) called MovilePay that delivers delightful experiences to payment and food market, along with [iFood](https://www.ifood.com.br/). *#FasterTogether*
-
 ## How I face the *work*
 
 I believe that we always work for someone and the Person I work for is bigger than my own work.
