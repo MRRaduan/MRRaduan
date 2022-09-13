@@ -1,18 +1,18 @@
 # Hi there! :coffee:
 
-I'm Raduan from Brazil 🇧🇷 and I solve problems by design and building web experiences.
+I'm Matheus Raduan from Brazil 🇧🇷 and I solve problems by design and building web experiences.
 
 *i.e. a developer with a focus on **Frontend** and **Design**.* :nerd_face:
 
 ## How I face the *work*
 
 I believe that we always work for someone and the Person I work for is bigger than my own work.
-The question you should ask me is, who do you work for?
+The question you should ask me is: who do you work for?
 
-## Thinks I like
+## Things I like
 
-- Coffee - a lot..
-- Books - mainly theological books
+- Coffee
+- Books - mainly theological ones
 - Cycling - I'm a bike commuter :bike:
 - Rubik's cube - My official WCA single record in 3x3x3 is 34.25s
 - Be in communion with my brothers - *[SIBS & Unijovem](https://www.instagram.com/unijovemsibs/)*
